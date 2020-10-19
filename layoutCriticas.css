@@ -1,0 +1,12 @@
+/*002*/
+h2 + ul {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	align-items: flex-start;
+}
+
+/*003*/
+h2 + ul li {
+	flex: 1 1 23em;
+}

@@ -1,0 +1,16 @@
+/*002*/
+h2 + ul {
+	/*columns: 3; Utilizado antes de usar layouts*/
+	display: grid;
+	grid-template-columns: 15em 15em 15em;
+	/*display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: flex-start;*/
+}
+
+/*003*/
+/*h2 + ul li {
+	flex: 1 1 10em;
+}*/

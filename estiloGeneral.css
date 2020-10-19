@@ -9,7 +9,8 @@ body {
 
 /*001*/
 p {
-	line-height: 1.3em;
+	text-align: justify;
+	line-height: 1.4em;
 }
 
 /*001*/
@@ -97,7 +98,7 @@ nav ul li a {
 	padding: 0.8em 1em;
 }
 
-/*028*/
+/*014*/
 nav ul li a:link, nav ul li a:visited {
 	color: white;
 }
@@ -123,7 +124,7 @@ aside {
 	border-style: solid;
 	border-width: 0.13em;
 	border-radius: 0.5em;
-	margin: 0.6em;
+	margin: 1.5em;
 }
 
 /*002*/
